@@ -1,0 +1,2 @@
+# mleap-spark
+../mvnw install:install-file -Dfile=mleap-spark_2.11-0.1.0-SNAPSHOT.jar -DgroupId=com.rugobal.mleap -DartifactId=mleap-spark_2.11 -Dversion=0.1.0 -Dpackaging=jar
